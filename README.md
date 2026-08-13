@@ -33,4 +33,4 @@ Beyond technical projects, I am passionate about community engagement and storyt
 
 ---
 
-[Download Full CV]({% post_url 2024-01-01-download-cv %}) | [Contact Me](mailto:your-email@example.com)
+[Download Full CV]({%}) | [Contact Me](me@harshjn.com)
