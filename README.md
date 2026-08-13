@@ -1,4 +1,4 @@
-# harshjn.github.io
+# Harsh Jain, PhD
 My Personal Website
 - 👋 Hi, I’m @harshjn
 - 👀 I’m interested in ...
