@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Harsh - Soft Matter Physics & Engineering
-permalink: /
+permalink: harshjn.com
 ---
 
 # Hi, I'm Harsh 👋
@@ -33,4 +33,4 @@ I enjoy translating theoretical models into practical engineering solutions, fro
 *   **Arduino & Hardware:** Designed and built a custom **Pen Plotter** from scratch using Arduino-based electronics [1].
 ---
 
-[Download Full CV]({%}) | [Contact Me](me@harshjn.com)
+[Contact Me](me@harshjn.com)
